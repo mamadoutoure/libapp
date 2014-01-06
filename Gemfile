@@ -8,6 +8,7 @@ gem 'activerecord-mysql2-adapter'
 
 group :development,:test do
   gem 'rspec-rails'
+  gem 'spork'
 end
 
 group :test do
